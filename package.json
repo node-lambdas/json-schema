@@ -4,5 +4,8 @@
   "type": "module",
   "publishConfig": {
     "access": "public"
+  },
+  "dependencies": {
+    "ajv": "^6.12.4"
   }
 }
